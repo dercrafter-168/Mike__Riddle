@@ -45,6 +45,10 @@ My passion lies in Minecraft and Magic, and I'm always looking for new projects 
 - 🔹 [**Java Phone GUI**](https://github.com/dercrafter-168/JS1_ITS_JavaPhoneGUI)  
   Desktop GUI for a Java-based phone using Swing, AWT & JFrame — designed for demo use.
 
+- 🔹 [**WMS GUI / CLI**](https://github.com/dercrafter-168/JS1_ITS_WMS)
+  It is a basic warehouse management system (WMS) with a Java-based GUI and CLI.
+  > ⚠️ Still in development — private project
+  
 - 🔹 [**DA-Times Website**](https://github.com/dercrafter-168/DA-Times-Website)  
   Basic website for the DA-Times newspaper (LBAH Minecraft server project) using HTML, CSS & JavaScript.
   > ⚠️ Still in development — private project
@@ -77,6 +81,7 @@ My work spans from Minecraft modding and web development to embedded systems and
 
 - Twitter: [@dercrafter168](https://twitter.com/dercrafter168)
 - GitHub: [dercrafter-168](https://github.com/dercrafter-168)
+- WonderfulDev: [@dercrafter168](https://wonderful.dev/dercrafter-168)
 - LinkedIn: [dercrafter-168](https://www.linkedin.com/in/mike-mayer-114009329)
 - Discord: `dercrafter_168`
 
